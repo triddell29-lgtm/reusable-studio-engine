@@ -12,7 +12,7 @@ If your browser blocks local module scripts, run a simple local server instead: 
 ## How to deploy
 Deployed with **GitHub Pages**: repo Settings → Pages → Deploy from branch `main`, folder `/ (root)`. Every push to `main` updates the live link automatically.
 
-**Live link:** _add your GitHub Pages URL here once deployed_
+**Live link:** https://triddell29-lgtm.github.io/reusable-studio-engine/
 
 ## How I use this to start projects
 1. Use this repo as a GitHub template (or duplicate it) for the new assignment.
